@@ -1,4 +1,4 @@
-# Multiple_LInear_Regression_Toyota_Price_Prediction
+# Multiple_Linear_Regression_Toyota_Price_Prediction
 Consider relevant columns and prepare a prediction model for predicting Price of Toyota Cars.Do proper exploratory Data Analysis and Feature Selection.     
 
 Dataset Desription -     
