@@ -41,5 +41,5 @@ Metallic_Rim --Metallic Rim  (Yes=1, No=0)
 Radio_cassette -- Radio Cassette  (Yes=1, No=0)      
 Tow_Bar -- Tow Bar  (Yes=1, No=0)         
 
-#### To view jupyter Notebook click[here] (https://github.com/sneha14sawant/Multiple_LInear_Regression_Toyota_Price_Prediction/blob/be25f85c21546555becca8fb04b782c02b552a22/Code/Multiple%20linear%20regression--prediction%20model%20for%20predicting%20price%20of%20Toyota.ipynb)
+#### To view jupyter Notebook click [here](https://github.com/sneha14sawant/Multiple_LInear_Regression_Toyota_Price_Prediction/blob/be25f85c21546555becca8fb04b782c02b552a22/Code/Multiple%20linear%20regression--prediction%20model%20for%20predicting%20price%20of%20Toyota.ipynb)
 
